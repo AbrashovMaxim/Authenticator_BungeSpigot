@@ -1,0 +1,7 @@
+com\maxabrashov\authenticator\events\Events.class
+com\maxabrashov\authenticator\Authenticator.class
+com\maxabrashov\authenticator\database\DataBaseHandler.class
+com\maxabrashov\authenticator\commands\RegisterCommand.class
+com\maxabrashov\authenticator\commands\LoginCommand.class
+com\maxabrashov\authenticator\commands\LogoutCommand.class
+com\maxabrashov\authenticator\yamlConfig\yamlConfig.class

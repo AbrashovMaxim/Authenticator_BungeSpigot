@@ -1,0 +1,7 @@
+name: AuthPlugin
+version: '0.1-SNAPSHOT'
+main: com.maxabrashov.authplugin.AuthPlugin
+commands:
+  setspawn:
+    description: Set spawn in Lobby
+    permission: authplugin.setspawn

@@ -1,0 +1,52 @@
+database:
+  host: localhost
+  database: testBungeeAuth
+  username: root
+  password: root
+  port: 3306
+
+lobby-servers:
+  - lobby
+
+auth-servers:
+  - auth
+
+messages:
+  settings:
+    error:
+      prefix-enable: true
+      prefix-name-116: "§x§f§f§0§0§0§0§l⚠ §r§x§f§a§4§3§0§1E§x§f§5§8§5§0§2R§x§f§5§8§5§0§2R§x§f§5§8§5§0§2O§x§f§a§4§3§0§1R §x§f§f§0§0§0§0§l⚠"
+      prefix-name-115: "§4§l⚠ §cERROR §4§l⚠"
+      prefix-separator: " "
+
+    prefix:
+      prefix-enable: true
+      prefix-name-116: "§x§f§b§0§0§0§0§l⚔ §x§f§9§1§c§0§0§lI§x§f§7§3§8§0§0§lM§x§f§5§5§4§0§0§lP§x§f§3§7§0§0§0§lE§x§f§1§8§d§0§0§lR§x§e§f§a§9§0§0§lL§x§e§d§c§5§0§0§lE§x§e§b§e§1§0§0§lX §x§e§9§f§d§0§0§l⚔"
+      prefix-name-115: "§e§l⚔ §cIMPERLEX §e⚔"
+      prefix-separator: " "
+
+    line-up-116: "§x§f§6§f§b§0§0§l╔§x§f§6§f§1§0§0§l═§x§f§7§e§7§0§0§l═§x§f§7§d§d§0§0§l═§x§f§7§d§3§0§0§l═§x§f§7§c§9§0§0§l═§x§f§8§b§f§0§0§l═§x§f§8§b§5§0§0§l═§x§f§8§a§b§0§0§l═§x§f§9§a§1§0§0§l═§x§f§9§9§7§0§0§l═§x§f§9§8§d§0§0§l═§x§f§9§8§3§0§0§l═§x§f§a§7§8§0§0§l═§x§f§a§6§e§0§0§l═§x§f§a§6§4§0§0§l═§x§f§a§5§a§0§0§l═§x§f§b§5§0§0§0§l═§x§f§b§4§6§0§0§l═§x§f§b§3§c§0§0§l═§x§f§c§3§2§0§0§l═§x§f§c§2§8§0§0§l═§x§f§c§1§e§0§0§l═§x§f§c§1§4§0§0§l═§x§f§d§0§a§0§0§l═§x§f§d§0§0§0§0§l═§x§f§d§0§a§0§0§l═§x§f§c§1§4§0§0§l═§x§f§c§1§e§0§0§l═§x§f§c§2§8§0§0§l═§x§f§c§3§2§0§0§l═§x§f§b§3§c§0§0§l═§x§f§b§4§6§0§0§l═§x§f§b§5§0§0§0§l═§x§f§a§5§a§0§0§l═§x§f§a§6§4§0§0§l═§x§f§a§6§e§0§0§l═§x§f§a§7§8§0§0§l═§x§f§9§8§3§0§0§l═§x§f§9§8§d§0§0§l═§x§f§9§9§7§0§0§l═§x§f§9§a§1§0§0§l═§x§f§8§a§b§0§0§l═§x§f§8§b§5§0§0§l═§x§f§8§b§f§0§0§l═§x§f§7§c§9§0§0§l═§x§f§7§d§3§0§0§l═§x§f§7§d§d§0§0§l═§x§f§7§e§7§0§0§l═§x§f§6§f§1§0§0§l═§x§f§6§f§b§0§0§l╗"
+    line-up-115: "§c§l╔═════════════════════════════════════════════════╗"
+    line-down-116: "§x§f§6§f§b§0§0§l╚§x§f§6§f§1§0§0§l═§x§f§7§e§7§0§0§l═§x§f§7§d§d§0§0§l═§x§f§7§d§3§0§0§l═§x§f§7§c§9§0§0§l═§x§f§8§b§f§0§0§l═§x§f§8§b§5§0§0§l═§x§f§8§a§b§0§0§l═§x§f§9§a§1§0§0§l═§x§f§9§9§7§0§0§l═§x§f§9§8§d§0§0§l═§x§f§9§8§3§0§0§l═§x§f§a§7§8§0§0§l═§x§f§a§6§e§0§0§l═§x§f§a§6§4§0§0§l═§x§f§a§5§a§0§0§l═§x§f§b§5§0§0§0§l═§x§f§b§4§6§0§0§l═§x§f§b§3§c§0§0§l═§x§f§c§3§2§0§0§l═§x§f§c§2§8§0§0§l═§x§f§c§1§e§0§0§l═§x§f§c§1§4§0§0§l═§x§f§d§0§a§0§0§l═§x§f§d§0§0§0§0§l═§x§f§d§0§a§0§0§l═§x§f§c§1§4§0§0§l═§x§f§c§1§e§0§0§l═§x§f§c§2§8§0§0§l═§x§f§c§3§2§0§0§l═§x§f§b§3§c§0§0§l═§x§f§b§4§6§0§0§l═§x§f§b§5§0§0§0§l═§x§f§a§5§a§0§0§l═§x§f§a§6§4§0§0§l═§x§f§a§6§e§0§0§l═§x§f§a§7§8§0§0§l═§x§f§9§8§3§0§0§l═§x§f§9§8§d§0§0§l═§x§f§9§9§7§0§0§l═§x§f§9§a§1§0§0§l═§x§f§8§a§b§0§0§l═§x§f§8§b§5§0§0§l═§x§f§8§b§f§0§0§l═§x§f§7§c§9§0§0§l═§x§f§7§d§3§0§0§l═§x§f§7§d§d§0§0§l═§x§f§7§e§7§0§0§l═§x§f§6§f§1§0§0§l═§x§f§6§f§b§0§0§l╝"
+    line-down-115: "§c§l╚═════════════════════════════════════════════════╝"
+  login:
+    login-bossbar: "§fYou have §c%s §fto authorize on the server"
+    login-chat: "§fAuthorize: §c/login §f<§cpassword§f>"
+    login-title: "§fAuthorization"
+    login-subtitle: "§fPlease enter §c/login §f<§cpassword§f>"
+    login-wrong-password: "§fYou have entered an incorrect password"
+    login-havent-account: "§fYou are not registered on the server"
+    login-not-auth: "§fYou are not authorized"
+    login-logout: "§fYou've logged out of your account"
+    login-session-load: "§aSession restored"
+    login-session: "§fYou are already authorized on the server"
+    login-time-along: "§fTime for authorization - §c§lexpired!"
+  register:
+    register-bossbar: "§fYou have §c%s §fto register on the server"
+    register-chat: "§fRegistration: §c/register §f<§cpassword§f> §f<§crepeat_password§f>"
+    register-title: "§fRegistration"
+    register-subtitle: "§fPlease enter /register <password> <repeat_password>"
+    register-account-exist: "§fAccount already registered"
+    register-password-mismatch: "§fThe passwords don't match"
+    register-password-small: "§fPassword length must be longer than §c8 characters"
+    register-time-along: "§fTime for registration - §c§lexpired!"

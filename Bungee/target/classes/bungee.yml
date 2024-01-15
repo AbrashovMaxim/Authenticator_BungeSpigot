@@ -1,0 +1,5 @@
+name: Authenticator
+version: '0.1-SNAPSHOT'
+main: com.maxabrashov.authenticator.Authenticator
+author: MaxAbrashov
+

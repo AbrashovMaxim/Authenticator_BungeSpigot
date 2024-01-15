@@ -1,0 +1,7 @@
+name: AuthPlugin
+version: '${project.version}'
+main: com.maxabrashov.authplugin.AuthPlugin
+commands:
+  setspawn:
+    description: Set spawn in Lobby
+    permission: authplugin.setspawn
